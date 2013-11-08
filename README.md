@@ -1,4 +1,3 @@
-
 /*
 * Copyright (c) 2013 Expedia, Inc. All rights reserved.
 */
@@ -14,8 +13,7 @@ import com.expedia.rajni.service.BookingService;
 import com.expedia.rajni.service.DealService;
 
 /**
-* @author Karan Shah (kashah@expedia.com)
-* @author Willie Wheeler (wwheeler@expedia.com)
+* 
 * @author Dwarika Mohanty(dmohanty@expedia.com)
 */
 @Component
